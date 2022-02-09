@@ -1,4 +1,4 @@
-Curso 100% Desenvolvido pela Cod3rCursos, apenas código de estudo
+
 
 
 # Meat - Angular App Starter
@@ -150,3 +150,5 @@ Dependências dos pacotes que devem ficar em package.json:
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+
+Curso 100% Desenvolvido pela Cod3rCursos, apenas código de estudo

@@ -1,3 +1,6 @@
+Curso 100% Desenvolvido pela Cod3rCursos, apenas código de estudo
+
+
 # Meat - Angular App Starter
 
 ## 1. Passos para começar
